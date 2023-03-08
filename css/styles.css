@@ -53,3 +53,9 @@ body {
 .color-heading {
 	color: #F9ED82;
 	}
+h1 {
+	font-family: "Blambot Pro BB"
+}
+h2 {
+    text-underline-position: below
+}
