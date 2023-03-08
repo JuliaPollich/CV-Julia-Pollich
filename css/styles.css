@@ -56,6 +56,9 @@ body {
 h1 {
 	font-family: "Blambot Pro BB"
 }
-h2 {
-    text-underline-position: below
+.language-progress {
+  background-color: #905F93 !important;
+}
+.language-level {
+	border-color: #905F93 !important;
 }
