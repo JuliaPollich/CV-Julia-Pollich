@@ -8,7 +8,7 @@
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
-	background-color: #F9ED82;
+	background-color: #F5DACC;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #fff0e0;
+	background-color: #B8BCD4;
 }
 
 /* Styles for lists in the document */
@@ -51,10 +51,18 @@ body {
 }
 
 .color-heading {
-	color: #F9ED82;
+	color: #F5DACC;
 	}
 h1 {
-	font-family: "Blambot Pro BB"
+	font-family: "Book Antiqua"
+	
+}
+
+h2 {
+	font-family: "Book Antiqua"
+}
+h4 {
+	text-decoration: underline #000000;
 }
 .language-progress {
   background-color: #905F93 !important;
@@ -62,3 +70,10 @@ h1 {
 .language-level {
 	border-color: #905F93 !important;
 }
+
+
+.Section-headlines {
+
+color: #905F93;
+}
+
